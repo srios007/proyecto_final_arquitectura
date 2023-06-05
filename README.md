@@ -27,6 +27,6 @@ https://github.com/srios007/proyecto_final_arquitectura.git
 
 Segundo, se debe tener el JDK instalado: 
 
-tercero, correr el proyecto desde nuestro IDE
+Tercero, correr el proyecto desde nuestro IDE
 
 
